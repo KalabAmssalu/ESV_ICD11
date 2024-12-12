@@ -1,0 +1,3668 @@
+[
+ {
+  "Code System": "ICD-11",
+  "Code": "1A00 ",
+  "Description": "Cholera",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A02",
+  "Description": "Intestinal infections due to Shigella",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A07",
+  "Description": "Typhoid fever",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A08",
+  "Description": "Paratyphoid fever",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A0Z",
+  "Description": "Bacterial intestinal infections, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A1Z",
+  "Description": "Bacterial foodborne intoxications, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A31",
+  "Description": "Giardiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A36",
+  "Description": "Amoebiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A3Y",
+  "Description": "Other specified protozoal intestinal infections",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A40",
+  "Description": "Gastroenteritis or colitis without specification of infectious\nagent",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A6Z",
+  "Description": "Syphilis, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A7Z",
+  "Description": "Gonococcal infection, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A80",
+  "Description": "Chlamydial lymphogranuloma",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A90",
+  "Description": "Chancroid",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A91",
+  "Description": "Granuloma inguinale",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A92",
+  "Description": "Trichomoniasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1A95.1 ",
+  "Description": "Genital warts",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B10.0",
+  "Description": "Respiratory tuberculosis, confirmed",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B10.1",
+  "Description": "Respiratory tuberculosis, not confirmed",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B1Z",
+  "Description": "Tuberculosis, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B20.Z",
+  "Description": "Leprosy, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B70.0",
+  "Description": "Erysipelas",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B71",
+  "Description": "Necrotising fasciitis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B72.Z",
+  "Description": "Impetigo, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B75.0",
+  "Description": "Furuncle",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B75.1",
+  "Description": "Carbuncle",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B75.3",
+  "Description": "Pyogenic abscess of the skin",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B95",
+  "Description": "Brucellosis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1B97",
+  "Description": "Anthrax",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C12",
+  "Description": "Whooping cough",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C13",
+  "Description": "Tetanus",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C15",
+  "Description": "Tetanus neonatorum",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C16",
+  "Description": "Gas gangrene",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C17",
+  "Description": "Diphtheria",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C23Z ",
+  "Description": "Trachoma, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C4Y",
+  "Description": "Other specified bacterial diseases",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C60",
+  "Description": "Human immunodeficiency virus disease associated with\ntuberculosis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C81",
+  "Description": "Acute poliomyelitis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1C82",
+  "Description": "Rabies",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D010 ",
+  "Description": "Bacterial meningiti",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D2Z",
+  "Description": "Dengue fever, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D40",
+  "Description": "Chikungunya virus disease",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D47",
+  "Description": "Yellow fever",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D80",
+  "Description": "Mumps",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1D84",
+  "Description": "Viral conjunctivitis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E32",
+  "Description": "Influenza, virus not identified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E50",
+  "Description": "Acute viral hepatitis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E50.0 ",
+  "Description": "Acute hepatitis A",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E50.1 ",
+  "Description": "Acute hepatitis B",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E50.2 ",
+  "Description": "Acute hepatitis C",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E50.4 ",
+  "Description": "Acute hepatitis E",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E51 ",
+  "Description": " Chronic viral hepatitis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E76",
+  "Description": "Molluscum contagiosum",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E80",
+  "Description": "Common warts",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E90",
+  "Description": "Varicella",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1E91",
+  "Description": "Zoster",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F00",
+  "Description": "Herpes simplex infections",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F03",
+  "Description": "Measles",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F03.Y ",
+  "Description": " Measles with other complications",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F23",
+  "Description": "Candidosis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F28.0 ",
+  "Description": "Dermatophytosis of scalp",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F28.1 ",
+  "Description": "Dermatophytosis of nail",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F28.2 ",
+  "Description": "Dermatophytosis of foot",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F28.3 ",
+  "Description": "Genitocrural dermatophytosis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F2D.0 ",
+  "Description": " Pityriasis versicolor",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F2Z",
+  "Description": "Mycoses, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F51",
+  "Description": "African trypanosomiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F53",
+  "Description": "Chagas disease",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F54 Z",
+  "Description": "Leishmaniasis, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F62",
+  "Description": "Ascariasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F64",
+  "Description": "Dracunculiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F65",
+  "Description": "Enterobiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F64",
+  "Description": "Dracunculiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F65",
+  "Description": "Enterobiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F66 3",
+  "Description": "-         Lymphatic filariasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F66 Z",
+  "Description": "-         Filariasis, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F68",
+  "Description": "Hookworm diseases",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F6A",
+  "Description": "Onchocerciasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F6B",
+  "Description": "Strongyloidiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F6G",
+  "Description": "Trichuriasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F70",
+  "Description": "Cysticercosis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F76 0",
+  "Description": "-         Taeniasis due to Taenia solium",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F76 1",
+  "Description": "-         Taeniasis due to Taenia saginata",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F86",
+  "Description": "Schistosomiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1F9Z",
+  "Description": "Helminthiases, unspecified",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G01",
+  "Description": "Myiasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G02",
+  "Description": "External hirudiniasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G03",
+  "Description": "Pthiriasis",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G2Y",
+  "Description": "- - Other specified parasitic diseases",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G40",
+  "Description": "- - Sepsis without septic shock",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "1G41",
+  "Description": "- - Sepsis with septic shock",
+  "Category": "Certain infectious or parasitic diseases "
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2A0Z",
+  "Description": "- - Other and unspecified neoplasms of brain or central nervous system",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B33.4",
+  "Description": "Leukaemia, unspecified",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B57",
+  "Description": "Kaposi sarcoma, primary site",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B6B",
+  "Description": "Malignant neoplasms of nasopharynx",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B6Z",
+  "Description": "Malignant neoplasms of lip, oral cavity or pharynx, unspecified",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B70",
+  "Description": "Malignant neoplasms of oesophagus",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B72",
+  "Description": "Malignant neoplasms of stomach",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B90",
+  "Description": "-            Malignant neoplasms of colon",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2B92",
+  "Description": "-            Malignant neoplasms of rectum",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C10",
+  "Description": "Malignant neoplasm of pancreas",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C12 0",
+  "Description": "-         Malignant neoplasm of liver",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C13",
+  "Description": "Malignant neoplasms of gallbladder",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C23",
+  "Description": "Malignant neoplasms of larynx",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C24",
+  "Description": "Malignant neoplasms of trachea",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C25",
+  "Description": "Malignant neoplasms of bronchus or lung",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C26",
+  "Description": "Malignant neoplasms of the pleura",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C6Z",
+  "Description": "Malignant neoplasms of breast, unspecified",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C77",
+  "Description": "Malignant neoplasms of cervix uteri",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C80",
+  "Description": "Malignant neoplasms of testis",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C82",
+  "Description": "Malignant neoplasms of prostate",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C90",
+  "Description": "Malignant neoplasms of kidney, except renal pelvis",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2C94",
+  "Description": "Malignant neoplasms of bladder",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2D10",
+  "Description": "Malignant neoplasms of thyroid gland",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2E66",
+  "Description": "- - Carcinoma in situ of cervix uteri",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2E80 0",
+  "Description": "Lipoma",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2E86 0",
+  "Description": "Leiomyoma of uterus",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "2F33",
+  "Description": "Benign neoplasm of other or unspecified female genital organs",
+  "Category": "Neoplasms"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "3A00 Z",
+  "Description": "Iron deficiency anaemia, unspecified",
+  "Category": "Diseases of the blood or blood-forming organs"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "3C0Y",
+  "Description": "- Other specified diseases of the blood or blood-forming organs",
+  "Category": "Diseases of the blood or blood-forming organs"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "4A0Y",
+  "Description": "- - Other specified primary immunodeficiencies",
+  "Category": "Diseases of the immune system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "4A44 2",
+  "Description": "Giant cell arteritis",
+  "Category": "Diseases of the immune system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "4A84",
+  "Description": "- - Anaphylaxis",
+  "Category": "Diseases of the immune system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "4A8Y",
+  "Description": "- - Allergic or hypersensitivity conditions of other specified type",
+  "Category": "Diseases of the immune system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "4B4Y",
+  "Description": "- Other specified diseases of the immune system",
+  "Category": "Diseases of the immune system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A00",
+  "Description": "Hypothyroidism",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A01 Z",
+  "Description": "Nontoxic goitre, unspecified",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A02",
+  "Description": "Thyrotoxicosis",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A10",
+  "Description": "Type 1 diabetes mellitus",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A11",
+  "Description": "Type 2 diabetes mellitus",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A14",
+  "Description": "Diabetes mellitus, type unspecified",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A40 0",
+  "Description": "Impaired fasting glucose",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A41",
+  "Description": "Hypoglycaemia without associated diabetes",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A70",
+  "Description": "Cushing syndrome",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5A80 1",
+  "Description": "Polycystic ovary syndrome",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B50",
+  "Description": "Underweight in infants, children or adolescents",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B51",
+  "Description": "Wasting in infants, children or adolescents",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B52",
+  "Description": "Acute malnutrition in infants, children or adolescents",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B53",
+  "Description": "Stunting in infants, children or adolescents",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B54",
+  "Description": "Underweight in adults",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55",
+  "Description": "Vitamin A deficiency",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.0",
+  "Description": "Vitamin A deficiency with night blindness",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.1",
+  "Description": "Vitamin A deficiency with conjunctival xerosis",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.2",
+  "Description": "Vitamin A deficiency with conjunctival xerosis or Bitot’s spots",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.3",
+  "Description": "Vitamin A deficiency with corneal xerosis",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.4",
+  "Description": "Vitamin A deficiency with corneal ulceration or keratomalacia",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B55.5",
+  "Description": "Vitamin A deficiency with xerophthalmic scars of cornea or blindness",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B56.0",
+  "Description": "Scurvy",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B57.0",
+  "Description": "Vitamin D deficiency rickets",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B5A.0",
+  "Description": "Beriberi",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B5C.0",
+  "Description": "Pellagra",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B5E",
+  "Description": "Folate deficiency",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B5F",
+  "Description": "Vitamin B12 deficiency",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B5K.3",
+  "Description": "Iodine deficiency",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B7Z",
+  "Description": "Unspecified undernutrition",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B80.0",
+  "Description": "-         Overweight",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B81",
+  "Description": "Obesity",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B90",
+  "Description": "Vitamin excesses",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5B91",
+  "Description": "Mineral excesses",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5C70 0",
+  "Description": "Dehydration",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "5C70 1",
+  "Description": "Hypovolaemia",
+  "Category": "Endocrine, nutritional or metabolic diseases"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6A20",
+  "Description": "- - Schizophrenia",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6A24",
+  "Description": "- - Delusional disorder",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6A7Z",
+  "Description": "Depressive disorders, unspecified",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B00",
+  "Description": "- - Generalised anxiety disorder",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B03",
+  "Description": "- - Specific phobia",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B40",
+  "Description": "- - Post traumatic stress disorder",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B4Z",
+  "Description": "- - Disorders specifically associated with stress, unspecified",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B80",
+  "Description": "- - Anorexia Nervosa",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6B8Z",
+  "Description": "- - Feeding or eating disorders, unspecified",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6C40",
+  "Description": "Disorders due to use of alcohol",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6C46",
+  "Description": "Disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6C4Z",
+  "Description": "Disorders due to substance use, unspecified",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6C91",
+  "Description": "- - Conduct-dissocial disorder",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6D10",
+  "Description": "- - Personality disorder",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6D70",
+  "Description": "- - Delirium",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6E20",
+  "Description": "- - Mental or behavioural Disorders associated with pregnancy, childbirth or the puerperium, without psychotic symptoms",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "6E21",
+  "Description": "- - Mental or behavioural Disorders associated with pregnancy, childbirth or the puerperium, with psychotic symptoms",
+  "Category": " Mental, behavioral or neurodevelopmental disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "7A00",
+  "Description": "- - Chronic insomnia",
+  "Category": "Sleep-wake disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "7A0Z",
+  "Description": "- - Insomnia disorders, unspecified",
+  "Category": "Sleep-wake disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "7A20",
+  "Description": "- - Narcolepsy",
+  "Category": "Sleep-wake disorders"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A00 0",
+  "Description": "Parkinson disease",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A20",
+  "Description": "- - Alzheimer disease",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A2Y",
+  "Description": "- - Other specified disorders with neurocognitive impairment as a major feature",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A40",
+  "Description": "- - Multiple sclerosis",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A63 0",
+  "Description": "Febrile seizures",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A66",
+  "Description": "- - Status epilepticus",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A80",
+  "Description": "- - Migraine",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8A81",
+  "Description": "- - Tension-type headache",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8B20",
+  "Description": "- - Stroke not known if ischaemic or haemorrhagic",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8B42",
+  "Description": "- - Myelopathy",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8B60",
+  "Description": "- - Motor neuron disease",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8B88.0",
+  "Description": "Bell palsy",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8C10 0",
+  "Description": "Carpal tunnel syndrome",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8C4Y",
+  "Description": "- - Other specified disorders of nerve root, plexus or peripheral nerves",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8D20",
+  "Description": "- - Spastic cerebral palsy",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8D64 Z",
+  "Description": "Hydrocephalus, unspecified",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "8E7Y",
+  "Description": "- Other specified diseases of the nervous system",
+  "Category": "Diseases of the nervous system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A01 3",
+  "Description": "Infectious blepharitis",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A02 0",
+  "Description": "Chalazion",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A03 4",
+  "Description": "Lagophthalmos",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A11 8",
+  "Description": "Nasolacrimal duct obstruction",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A21 0",
+  "Description": "Orbital cellulitis",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A4Y",
+  "Description": "- - Other specified disorders of the ocular adnexa or orbit",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A60",
+  "Description": "Conjunctivitis",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A60 02",
+  "Description": "-         Allergic conjunctivitis",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A61 1",
+  "Description": "Pterygium",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A76",
+  "Description": "Corneal ulcer",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A77",
+  "Description": "Corneal scars or opacities",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9A80",
+  "Description": "Hyphaema",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9B10",
+  "Description": "Cataract",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9B10.20",
+  "Description": "-         Traumatic cataract",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9B71.1",
+  "Description": "Hypertensive retinopathy",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9C60",
+  "Description": "- - Glaucoma suspect",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9C61",
+  "Description": "- - Glaucoma",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9C84",
+  "Description": "- - Nystagmus",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D00",
+  "Description": "- - Disorders of refraction",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D00 0",
+  "Description": "Myopia",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D00 2",
+  "Description": "Astigmatism",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D00 3",
+  "Description": "Presbyopia",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D90 5",
+  "Description": "Blindness, monocular",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9D91",
+  "Description": "- - Near vision deficits",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "9E1Y",
+  "Description": "- Other specified diseases of the visual system",
+  "Category": " Diseases of the visual system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AA42",
+  "Description": "Impacted cerumen",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AA90",
+  "Description": "Acute suppurative otitis media",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AA91",
+  "Description": "Chronic suppurative otitis media",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB00",
+  "Description": "Acute otitis media",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB01",
+  "Description": "Chronic otitis media",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB0Z",
+  "Description": "Otitis media, unspecified",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB11.0",
+  "Description": "Acute mastoiditis",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB11.1",
+  "Description": "Chronic mastoiditis",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB13",
+  "Description": "- - Perforation of tympanic membrane",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB1Y",
+  "Description": "- - Other specified diseases of middle ear or mastoid",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB30.0",
+  "Description": "Vestibular neuritis",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB3Y",
+  "Description": "- - Other specified diseases of inner ear",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "AB70.2",
+  "Description": "Otalgia",
+  "Category": "Diseases of the ear or mastoid process"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BA00",
+  "Description": "- - Essential hypertension",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BA21",
+  "Description": "- - Orthostatic hypotension",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BA40",
+  "Description": "Angina pectoris",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BA4Z",
+  "Description": "Acute ischaemic heart disease, unspecified",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD1Z",
+  "Description": "- - Heart failure, unspecified",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD54",
+  "Description": "- - Diabetic foot ulcer",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD71",
+  "Description": "- - Deep vein thrombosis",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD74.1",
+  "Description": "Lower limb varicose veins",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD90",
+  "Description": "- - Lymphadenitis",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "BD93",
+  "Description": "- - Lymphoedema",
+  "Category": "Diseases of the circulatory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA00",
+  "Description": "- - Acute nasopharyngitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA01",
+  "Description": "- - Acute sinusitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA02 Z",
+  "Description": "Acute pharyngitis, unspecified",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA03 Z",
+  "Description": "Acute tonsillitis, unspecified",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA04",
+  "Description": "- - Acute laryngopharyngitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA06",
+  "Description": "- - Acute obstructive laryngitis or epiglottitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA08 0",
+  "Description": "Allergic rhinitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA0D",
+  "Description": "- - Deviated nasal septum",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA0J",
+  "Description": "- - Nasal polyp",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA22",
+  "Description": "- - Chronic obstructive pulmonary disease",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA23",
+  "Description": "- - Asthma",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA26",
+  "Description": "- - Chronic bronchiolitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA27",
+  "Description": "- - Tracheobronchitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA40",
+  "Description": "- - Pneumonia",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CA42",
+  "Description": "- - Acute bronchitis",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CB40.Y",
+  "Description": "- - Other specified diseases of the respiratory system",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "CB41.1",
+  "Description": "- - Chronic respiratory failure",
+  "Category": "Diseases of the respiratory system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA00 0",
+  "Description": "Cheilitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA01 10",
+  "Description": "Oral aphthae or aphtha-like ulceration",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA08 0",
+  "Description": "Dental caries",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA0B",
+  "Description": "- - Gingival diseases",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA0C 0",
+  "Description": "Acute periodontitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA0C 31",
+  "Description": "Noma",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA0E 8",
+  "Description": "Temporomandibular joint disorders",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA22",
+  "Description": "- - Gastro-oesophageal reflux disease",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA24",
+  "Description": "- - Oesophagitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA42",
+  "Description": "Gastritis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA42 1",
+  "Description": "Helicobacter pylori induced gastritis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA42 8",
+  "Description": "Gastritis due to external causes",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA42 Y",
+  "Description": "Other specified gastritis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA51",
+  "Description": "Duodenitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA60",
+  "Description": "Gastric ulcer",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA63",
+  "Description": "Duodenal ulcer",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DA91",
+  "Description": "- - Obstruction of small intestine",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB10",
+  "Description": "- - Appendicitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB30",
+  "Description": "- - Obstruction of large intestine",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB31.2",
+  "Description": "Rectal prolapse",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB50.0",
+  "Description": "Anal fissure",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB50.1",
+  "Description": "Anal fistula",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB52",
+  "Description": "Ulcer of anus",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB60",
+  "Description": "Haemorrhoids",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB62",
+  "Description": "Residual haemorrhoidal skin tags",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB70.00",
+  "Description": "Anal abscess",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB93.1",
+  "Description": "Hepatic cirrhosis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB98.7",
+  "Description": "Portal hypertension",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB99.0",
+  "Description": "Chronic liver disease",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DB99.5",
+  "Description": "Hepatic encephalopathy",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DC10 0",
+  "Description": "Obstruction of gallbladder or bile ducts",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DC11",
+  "Description": "- - Cholelithiasis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DC31",
+  "Description": "- - Acute pancreatitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DC32",
+  "Description": "- - Chronic pancreatitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DC50",
+  "Description": "- - Peritonitis",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD50",
+  "Description": "- - Non-abdominal wall hernia",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD51",
+  "Description": "- - Inguinal hernia",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD52",
+  "Description": "- - Femoral hernia",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD56",
+  "Description": "- - Incisional hernia",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD5Z",
+  "Description": "- - Hernias, unspecified",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD91 0",
+  "Description": "Irritable bowel syndrome",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DD93 1",
+  "Description": "Infantile colic",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "DE10",
+  "Description": "- - Vomiting following gastrointestinal surgery",
+  "Category": "Diseases of the digestive system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA10",
+  "Description": "Pityriasis rosea",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA60 0",
+  "Description": "Subcutaneous mycoses",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA80",
+  "Description": "Atopic eczema",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA80 0",
+  "Description": "Infantile atopic eczema",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA80 1",
+  "Description": "Childhood atopic eczema",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA80 2",
+  "Description": "Adult atopic eczema",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA81 Z",
+  "Description": "Seborrhoeic dermatitis, unspecified",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA82",
+  "Description": "Nummular dermatitis",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA83",
+  "Description": "Lichen simplex or lichenification",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA88 4",
+  "Description": "Pityriasis alba",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA8Z",
+  "Description": "Dermatitis or eczema, unspecified",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA90",
+  "Description": "Psoriasis",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA91",
+  "Description": "Lichen planus",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EA92",
+  "Description": "Lichenoid dermatoses",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB00.0",
+  "Description": "Acute urticaria",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB00.1",
+  "Description": "Chronic urticaria",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB04",
+  "Description": "Idiopathic angioedema",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB12",
+  "Description": "Erythema multiforme",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB13.0",
+  "Description": "Stevens-Johnson syndrome",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB31",
+  "Description": "Erythema nodosum",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB51",
+  "Description": "Chronic cutaneous lupus erythematosus",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EB51.0",
+  "Description": "Discoid lupus erythematosus",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EC90",
+  "Description": "Pruritus",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EC91",
+  "Description": "Prurigo",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED54",
+  "Description": "Xerosis cutis or asteatosis",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED60 1",
+  "Description": "-         Melasma",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED63 0",
+  "Description": "-         Vitiligo",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED6Y",
+  "Description": "Other specified disorders of skin pigmentation",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED70 2",
+  "Description": "-         Alopecia areata",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED80 Z",
+  "Description": "-            Acne, unspecified",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ED91 2",
+  "Description": "-         Seborrhoea",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "EE12 0",
+  "Description": "-         Acute bacterial paronychia",
+  "Category": "Diseases of the skin"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA00",
+  "Description": "Osteoarthritis of hip",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA01",
+  "Description": "Osteoarthritis of knee",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA02",
+  "Description": "Osteoarthritis of wrist and hand",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA20",
+  "Description": "Rheumatoid arthritis",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA25",
+  "Description": "Gout",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA30",
+  "Description": "Acquired deformities of fingers or toes",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA31",
+  "Description": "Other acquired deformities of limbs",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA32",
+  "Description": "Disorders of patella",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA5Y",
+  "Description": "- - Other specified arthropathies",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FA70 0",
+  "Description": "Kyphosis",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB1Y",
+  "Description": "- - Other specified conditions associated with the spine",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB40",
+  "Description": "Tenosynovitis",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB40.1",
+  "Description": "Plantar fasciitis",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB4Y",
+  "Description": "Other specified disorders of synovium or tendon",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB55.0",
+  "Description": "Medial epicondylitis of elbow",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB55.1",
+  "Description": "Lateral epicondylitis of elbow",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB6Z",
+  "Description": "- - Soft tissue disorders, unspecified",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FB80.9",
+  "Description": "Delayed union of fracture",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "FC0Y",
+  "Description": "- Other specified diseases of the musculoskeletal system or connective tissue",
+  "Category": "Diseases of the musculoskeletal system or connective tissue"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA00",
+  "Description": "Vulvitis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA00.40",
+  "Description": "-         Vulvovaginal ulceration",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA02",
+  "Description": "Vaginitis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA02.3",
+  "Description": "Genital ulcer disease of vagina",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA03.0",
+  "Description": "Abscess of Bartholin gland",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA03.1",
+  "Description": "Cyst of Bartholin gland",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA04",
+  "Description": "Cervicitis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA05",
+  "Description": "Female pelvic inflammatory diseases",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA05.0",
+  "Description": "Acute female pelvic inflammatory disease",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA10",
+  "Description": "Endometriosis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA12",
+  "Description": "Dyspareunia",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA13.6",
+  "Description": "Vulvar laceration",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA14.0",
+  "Description": "Polyp of vagina",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA14.2",
+  "Description": "Vaginal foreign body",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA15.6",
+  "Description": "Incompetence of cervix uteri",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA16.1",
+  "Description": "Malposition of uterus",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA20.0",
+  "Description": "Amenorrhoea",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA20.10",
+  "Description": "-         Frequent menstrual bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA20.11",
+  "Description": "-         Infrequent menstrual bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA20.20",
+  "Description": "-         Intermenstrual bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA21.0",
+  "Description": "Postcoital or contact bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA22",
+  "Description": "Excessive menstruation with irregular cycle",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA23",
+  "Description": "Anovulatory bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA2Z",
+  "Description": "Abnormal uterine or vaginal bleeding, unspecified",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA30.0",
+  "Description": "Menopause",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA30.1",
+  "Description": "Postmenopausal uterine bleeding",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA30.2",
+  "Description": "Postmenopausal atrophic vaginitis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA30.4",
+  "Description": "Menopausal hot flush",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA30.6",
+  "Description": "Premature ovarian failure",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA31",
+  "Description": "- - Female infertility",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA31.0",
+  "Description": "Primary female infertility",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA31.1",
+  "Description": "Secondary female infertility",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA33",
+  "Description": "- - Recurrent pregnancy loss",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA34.3",
+  "Description": "Dysmenorrhoea",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA34.4",
+  "Description": "Premenstrual disturbances",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA42.0",
+  "Description": "Vulval pruritus",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA6Y",
+  "Description": "- - Other specified diseases of the female genital system",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA80",
+  "Description": "Ulcerative disorders of the penis or scrotum",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA90",
+  "Description": "Hyperplasia of prostate",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GA91.Y",
+  "Description": "Other specified inflammatory and other diseases of prostate",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB01.0",
+  "Description": "Torsion of testis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB02",
+  "Description": "- - Orchitis or epididymitis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB04",
+  "Description": "- - Male infertility",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB05.2",
+  "Description": "Phimosis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB05.3",
+  "Description": "Paraphimosis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB06.1",
+  "Description": "Priapism",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB0Y",
+  "Description": "- - Other specified diseases of the male genital system",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB21.0",
+  "Description": "Breast abscess",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB21.Z",
+  "Description": "Inflammatory disorders of breast, unspecified",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB23.1",
+  "Description": "Fissure or fistula of nipple",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB23.5",
+  "Description": "Mastodynia",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB2Z",
+  "Description": "- - Disorders of breast, unspecified",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB40",
+  "Description": "Nephritic syndrome",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB41",
+  "Description": "Nephrotic syndrome",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "GB51",
+  "Description": "Acute pyelonephritis",
+  "Category": "Diseases of the genitourinary system"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "HA01 1",
+  "Description": "Male erectile dysfunction",
+  "Category": "Conditions related to sexual health"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "HA03 1",
+  "Description": "Male delayed ejaculation",
+  "Category": "Conditions related to sexual health"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "HA0Z",
+  "Description": "- - Sexual dysfunctions, unspecified",
+  "Category": "Conditions related to sexual health"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA00 0",
+  "Description": "Spontaneous abortion",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA00 1",
+  "Description": "Induced abortion",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA01 Z",
+  "Description": "Ectopic pregnancy, unspecified",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA03",
+  "Description": "- - Missed abortion",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA23",
+  "Description": "- - Gestational hypertension",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA24",
+  "Description": "- - Pre-eclampsia",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA25",
+  "Description": "- - Eclampsia",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA40 0",
+  "Description": "Threatened abortion",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA41",
+  "Description": "- - Antepartum haemorrhage",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA42",
+  "Description": "- - Intrapartum haemorrhage",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA43",
+  "Description": "- - Postpartum haemorrhage",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA60",
+  "Description": "- - Excessive vomiting in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA61 0",
+  "Description": "Varicose veins of lower extremity in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA61 1",
+  "Description": "Genital varices in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA61 4",
+  "Description": "Haemorrhoids in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA63",
+  "Description": "- - Diabetes mellitus in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA64",
+  "Description": "- - Malnutrition in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA65 2",
+  "Description": "Excessive weight gain in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA65 3",
+  "Description": "Low weight gain in pregnancy",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA87",
+  "Description": "- - Maternal care related to polyhydramnios",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA88 0",
+  "Description": "Oligohydramnios",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JA89 3",
+  "Description": "Preterm premature rupture of membranes",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB00",
+  "Description": "- - Preterm labour or delivery",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB01",
+  "Description": "- - Failed induction of labour",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB02.3",
+  "Description": "Precipitate labour",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB03.0",
+  "Description": "Prolonged first stage of labour",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB03.1",
+  "Description": "Prolonged second stage of labour",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB04",
+  "Description": "- - Obstructed labour due to malposition or malpresentation of fetus",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB05",
+  "Description": "- - Obstructed labour due to maternal pelvic abnormality",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB06",
+  "Description": "- - Obstructed labour due to other causes",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB07",
+  "Description": "- - Labour or delivery complicated by fetal distress",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "JB08",
+  "Description": "- - Labour or delivery complicated by umbilical cord complications",
+  "Category": "Pregnancy, childbirth or the puerperium"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA05",
+  "Description": "- - Fetus or newborn affected by certain complications of labour or delivery",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA20.0",
+  "Description": "Small for gestational age",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA21.2",
+  "Description": "Low birth weight of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA21.4",
+  "Description": "Preterm newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA22.1",
+  "Description": "Large newborn for gestational age",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA22.2",
+  "Description": "Post-term newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA41",
+  "Description": "- - Birth injury to eye",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA42",
+  "Description": "- - Birth injury to scalp",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA43",
+  "Description": "- - Birth injury to skin or soft tissues",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA44",
+  "Description": "- - Birth injury to peripheral nervous system",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA46",
+  "Description": "- - Birth injury to other organs",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA65.1",
+  "Description": "Omphalitis of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA80",
+  "Description": "- - Fetal blood loss",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA81",
+  "Description": "- - Umbilical haemorrhage of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA86",
+  "Description": "- - Neonatal kernicterus",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KA8F",
+  "Description": "- - Neonatal vitamin K deficiency",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB05",
+  "Description": "- - Neonatal hydrocephalus",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB06",
+  "Description": "- - Neonatal seizures",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB21",
+  "Description": "- - Birth asphyxia",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB23.0",
+  "Description": "Respiratory distress syndrome of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB26.0",
+  "Description": "Neonatal aspiration of meconium",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB26.3",
+  "Description": "Neonatal aspiration of milk or regurgitated food",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB2A",
+  "Description": "- - Apnoea of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB2E",
+  "Description": "- - Respiratory arrest of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB63.1",
+  "Description": "Dehydration of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KB87",
+  "Description": "- - Intestinal obstruction of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KC20.0",
+  "Description": "Delayed separation of umbilical cord",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KD10",
+  "Description": "- - Environmental hyperthermia of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KD12",
+  "Description": "- - Hypothermia of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KD30",
+  "Description": "- - Birth depression",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KD32",
+  "Description": "- - Feeding problems of newborn",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "KD3Y",
+  "Description": "- - Other specified disorders originating in the perinatal period",
+  "Category": "Certain conditions originating in the perinatal period"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "LA40",
+  "Description": "Cleft lip",
+  "Category": "Developmental anomalies"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "LA42",
+  "Description": "Cleft palate",
+  "Category": "Developmental anomalies"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "LB42.4",
+  "Description": "Imperforate hymen",
+  "Category": "Developmental anomalies"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "LB52.0",
+  "Description": "Ectopic testis",
+  "Category": "Developmental anomalies"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MA15 0",
+  "Description": "Bacteraemia",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MA18 0",
+  "Description": "Elevated blood glucose level",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MA18 4",
+  "Description": "Low haemoglobin",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MA80",
+  "Description": "Speech disturbances",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB20.0",
+  "Description": "Stupor",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB20.1",
+  "Description": "Coma",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB21.1",
+  "Description": "Amnesia",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB47.3",
+  "Description": "Cramp or spasm",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB47.5",
+  "Description": "Fasciculation",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB47.B",
+  "Description": "Opisthotonos",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB48.0",
+  "Description": "Vertigo",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB53.Z",
+  "Description": "-         Hemiplegia, unspecified",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MB56",
+  "Description": "Paraplegia",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC14",
+  "Description": "Eye discharge",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC15",
+  "Description": "Red eye",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC16",
+  "Description": "Pallor conjunctiva",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC17",
+  "Description": "Icteric sclera",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC1A",
+  "Description": "Visual floaters",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC41",
+  "Description": "Tinnitus",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC80 0",
+  "Description": "Elevated blood-pressure reading, without diagnosis of hypertension",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC81 0",
+  "Description": "Tachycardia, unspecified",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC81 1",
+  "Description": "Bradycardia, unspecified",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC81 2",
+  "Description": "Palpitations",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MC85",
+  "Description": "Gangrene",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD11 6",
+  "Description": "Hiccough",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD11 7",
+  "Description": "Hyperventilation",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD11 9",
+  "Description": "Nasal congestion",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD11.B",
+  "Description": "Stridor",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD11 C",
+  "Description": "Wheezing",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD12",
+  "Description": "Cough",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD20",
+  "Description": "Epistaxis",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD22",
+  "Description": "Haemoptysis",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MD31",
+  "Description": "Pleurisy",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF50 7",
+  "Description": "Dysuria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF51",
+  "Description": "Anuria or oliguria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF55",
+  "Description": "Polyuria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF56",
+  "Description": "Renal colic",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF58",
+  "Description": "Urethral discharge",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF94",
+  "Description": "Haemoglobinuria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF96",
+  "Description": "Proteinuria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MF97",
+  "Description": "Pyuria",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MG22",
+  "Description": "Fatigue",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MG29",
+  "Description": "Oedema",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MG40",
+  "Description": "Shock",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MG43.0",
+  "Description": "Polydipsia",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MG45",
+  "Description": "Syncope and collapse",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "MH11",
+  "Description": "- - Sudden infant death syndrome",
+  "Category": " Symptoms, signs or clinical findings, not elsewhere classified"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA00",
+  "Description": "- - Superficial injury of head",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA00 0Y",
+  "Description": "Other specified superficial injury of scalp",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA00 1",
+  "Description": "Superficial injury of eyelid or periocular area",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA01",
+  "Description": "- - Open wound of head",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA02",
+  "Description": "- - Fracture of skull or facial bones",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA02 1",
+  "Description": "Fracture of base of skull",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA02 3",
+  "Description": "Fracture of nasal bones",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA02 7",
+  "Description": "Fracture of mandible",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA03 0",
+  "Description": "Dislocation of jaw",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA04",
+  "Description": "- - Injury of cranial nerves",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA06 8",
+  "Description": "Traumatic injury to eyeball",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA07",
+  "Description": "- - Intracranial injury",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA07 0",
+  "Description": "Concussion",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA08",
+  "Description": "- - Crushing injury of head",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA09 0",
+  "Description": "Avulsion of scalp",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA0A Y",
+  "Description": "Other specified injuries of head",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA20",
+  "Description": "- - Superficial injury of neck",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA21",
+  "Description": "- - Open wound of neck",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA22",
+  "Description": "- - Fracture of neck",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA6Y",
+  "Description": "- - Other specified injuries to the neck",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA81",
+  "Description": "- - Open wound of thorax",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA82 3",
+  "Description": "Fracture of rib",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA82 4",
+  "Description": "Multiple fractures of ribs",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NA82 5",
+  "Description": "Flail chest",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB31",
+  "Description": "- - Injury of heart",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB32.0",
+  "Description": "Traumatic pneumothorax",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB32.1",
+  "Description": "Traumatic haemothorax",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB32.2",
+  "Description": "Traumatic haemopneumothorax",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB3Y",
+  "Description": "- - Other specified injuries to the thorax",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB50",
+  "Description": "- - Superficial injury of abdomen, lower back or pelvis",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB51",
+  "Description": "- - Open wound of abdomen, lower back or pelvis",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NB52",
+  "Description": "- - Fracture of lumbar spine or pelvis",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC53",
+  "Description": "- - Fracture at wrist or hand level",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC54 2Y",
+  "Description": "Dislocation of other specified part of finger",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC70",
+  "Description": "- - Superficial injury of hip or thigh",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC72",
+  "Description": "- - Fracture of femur",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC91",
+  "Description": "- - Open wound of knee or lower leg",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC92",
+  "Description": "- - Fracture of lower leg, including ankle",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC93",
+  "Description": "- - Dislocation or strain or sprain of joints or ligaments of knee",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NC93 2",
+  "Description": "Dislocation of knee",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND10",
+  "Description": "- - Injury to toenail",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND11",
+  "Description": "- - Superficial injury of ankle or foot",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND19",
+  "Description": "- - Traumatic amputation of ankle or foot",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND70",
+  "Description": "- - Foreign body on external eye",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND71",
+  "Description": "- - Foreign body in ear",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "ND72",
+  "Description": "- - Foreign body in respiratory tract",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE2Z",
+  "Description": "- - Burns, unspecified",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE4Z",
+  "Description": "- - Frostbite, unspecified",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE60&NE60&XM1X11",
+  "Description": "Carbon monoxide poisoning [Harmful effects of substances]",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE60&XM0TV9",
+  "Description": "Formaldehyde poisoning [Harmful effects of substances]",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE60&XM7154",
+  "Description": "Organophosphate insecticide poisoning [Harmful effects of substances]",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE60&XM96H3",
+  "Description": "Carbamates poisoning [Harmful effects of substances]",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NE60&XM9EL1",
+  "Description": "DDT(chlorophenothane) poisoning[Harmful effects of substances]",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NF05",
+  "Description": "- - Asphyxiation",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NF08 1",
+  "Description": "Drowning or nonfatal submersion",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "NF2Y",
+  "Description": "- Other specified injury, poisoning or certain other consequences of external causes",
+  "Category": "Injury, poisoning or certain other consequences of external causes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PC53",
+  "Description": "Intentional self-harm by being cut or pierced by sharp object",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PC54",
+  "Description": "Intentional self-harm by being struck by blunt object",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PC90",
+  "Description": "Intentional self-harm by exposure to or harmful effects of opioids or related analgesics",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PC92",
+  "Description": "Intentional self-harm by exposure to or harmful effects of psychostimulants",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PD03",
+  "Description": "Intentional self-harm by exposure to or harmful effects of pesticides",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PD9Z",
+  "Description": "Assault by transport injury event, unspecified",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PE31",
+  "Description": "Assault by being cut or pierced by sharp glass",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PE3Z",
+  "Description": "Assault by being cut or pierced by other or unspecified sharp object",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PE40",
+  "Description": "Assault by being struck by blunt object",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PE62",
+  "Description": "Assault by threat to breathing by strangulation",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PE70",
+  "Description": "Assault by exposure to uncontrolled fire",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "PJ00",
+  "Description": "- - Victim of lightning",
+  "Category": "External causes of morbidity or mortality"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA00 0",
+  "Description": "General adult medical examination",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA01 3",
+  "Description": "Examination for recruitment to armed forces",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA01 4",
+  "Description": "Examination for driving license",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA01 7",
+  "Description": "Issue of medical certificate",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA04 7",
+  "Description": "Examination for medicolegal reasons",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "QA40",
+  "Description": "Pregnancy examination or test",
+  "Category": "Factors influencing health status or contact with health services"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "RA01 0",
+  "Description": "COVID-19, virus identified",
+  "Category": "Codes for special purposes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XE42A",
+  "Description": "Vehicle driver injured in transport related event",
+  "Category": "Extension Codes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XE7NK",
+  "Description": "Motorcycle as mode of transport of person injured in transport related event",
+  "Category": "Extension Codes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XE940",
+  "Description": "Animal being ridden as mode of transport of person injured in transport related event",
+  "Category": "Extension Codes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XE97V",
+  "Description": "Intentional self-harm, person intended to die",
+  "Category": "Extension Codes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XJ44E",
+  "Description": "Closed fracture",
+  "Category": "Extension Codes"
+ },
+ {
+  "Code System": "ICD-11",
+  "Code": "XJ7YM",
+  "Description": "Open fracture",
+  "Category": "Extension Codes"
+ }
+]
